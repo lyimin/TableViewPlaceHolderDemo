@@ -79,3 +79,6 @@ class ViewController: UITableViewDelegate, LCTableViewDataSource {
     }
 }
 ```
+```swift
+tableView.lc_reloadData()
+```
